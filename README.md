@@ -7,4 +7,7 @@
 - 2021/02/18 台灣人工智慧小聚@台南 The Year in AI-Looking Back at 2020, and Forward to 2021
 - 2021/10/25 長榮大學資工系@台南 大學四年指南
 - 2021/11/02 長榮大學資工系@台南 AI專題分享
+- 2021/12/07 [線上工作坊](https://www.cupoy.com/event-content/0000017D4AD11FBB000000036375706F795F72656C6561736553747564794576656E74)@Cupoy AI 學習社群 機器學習金手指-Auto-sklearn
 - 2021/12/13 長榮大學資訊暨設計學院@台南 大國競逐下的AI新方向
+- 2021/12/14 [線上工作坊](https://www.cupoy.com/event-content/0000017D4AD11FBB000000036375706F795F72656C6561736553747564794576656E74)@Cupoy AI 學習社群 自動調參神器-Optuna
+- 2021/12/21 [線上工作坊](https://www.cupoy.com/event-content/0000017D4AD11FBB000000036375706F795F72656C6561736553747564794576656E74)@Cupoy AI 學習社群 你所不知道的關於AI二三事
