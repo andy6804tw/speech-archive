@@ -2,8 +2,8 @@
 - 2019/10/18 台灣人工智慧小聚@台南 [傳統AI遇見現代AI](https://github.com/andy6804tw/speach-archive/blob/main/2019/20191018-當傳統AI遇見現代AI/20191018-當傳統AI遇見現代AI.pdf)
 - 2020/01/16 台灣人工智慧小聚@台南 [動手做一個機器學習API](https://github.com/andy6804tw/speach-archive/blob/main/2020/20200116-動手做一個機器學習API/20200116-動手做一個機器學習API.pdf)
 - 2020/03/20 台灣人工智慧小聚@台南 [免費雲端Jupyter Notebook](https://github.com/andy6804tw/speach-archive/blob/main/2020/20200320-免費雲端Jupyter Notebook/20200320-免費雲端Jupyter Notebook.pdf)
-- 2020/12/03 高雄科技大學工業工程與管理學系演講@高雄 2020AI趨勢應用、動手玩AI(1)
-- 2020/12/10 高雄科技大學工業工程與管理學系演講@高雄 認識AI、動手玩AI(2)
+- 2020/12/03 高雄科技大學工業工程與管理學系演講@高雄 [2020AI趨勢應用](https://github.com/andy6804tw/speach-archive/blob/main/2020/20201203-高雄科技大學工業工程與管理學系演講/2020AI趨勢應用.pdf)、[動手玩AI(1)](https://github.com/andy6804tw/speach-archive/blob/main/2020/20201203-高雄科技大學工業工程與管理學系演講/動手玩AI(1).pdf)
+- 2020/12/10 高雄科技大學工業工程與管理學系演講@高雄 [認識AI](https://github.com/andy6804tw/speach-archive/blob/main/2020/20201210-高雄科技大學工業工程與管理學系演講/認識AI.pdf)、[動手玩AI(2)](https://github.com/andy6804tw/speach-archive/blob/main/2020/20201210-高雄科技大學工業工程與管理學系演講/動手玩AI(2).pdf)
 - 2021/02/18 台灣人工智慧小聚@台南 The Year in AI-Looking Back at 2020, and Forward to 2021
 - 2021/10/25 長榮大學資工系@台南 大學四年指南
 - 2021/11/02 長榮大學資工系@台南 AI專題分享
