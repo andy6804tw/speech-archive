@@ -1,5 +1,5 @@
 
-- 2019/10/18 台灣人工智慧小聚@台南 [傳統AI遇見現代AI](https://github.com/andy6804tw/speach-archive/blob/main/2019/20191018-當傳統AI遇見現代AI/20191018-當傳統AI遇見現代AI.pdf)
+- 2019/10/18 [台灣人工智慧小聚](https://medium.com/ai-academy-taiwan/當傳統ai遇見現代ai-ac51d6814918)@台南 [傳統AI遇見現代AI](https://github.com/andy6804tw/speach-archive/blob/main/2019/20191018-當傳統AI遇見現代AI/20191018-當傳統AI遇見現代AI.pdf)
 - 2020/01/16 [台灣人工智慧小聚](https://www.facebook.com/groups/taiwan.ai.meetup/permalink/2443862985925219/)@台南 [動手做一個機器學習API](https://github.com/andy6804tw/speach-archive/blob/main/2020/20200116-動手做一個機器學習API/20200116-動手做一個機器學習API.pdf)
 - 2020/03/20 [台灣人工智慧小聚](https://www.facebook.com/aiacademy.tw/photos/g.1651582658486593/2320758821359215)@台南 [免費雲端Jupyter Notebook](https://github.com/andy6804tw/speach-archive/blob/main/2020/20200320-%E5%85%8D%E8%B2%BB%E9%9B%B2%E7%AB%AFJupyter%20Notebook/20200320-%E5%85%8D%E8%B2%BB%E9%9B%B2%E7%AB%AFJupyter%20Notebook.pdf)
 - 2020/12/03 高雄科技大學工業工程與管理學系演講@高雄 [2020AI趨勢應用](https://github.com/andy6804tw/speach-archive/blob/main/2020/20201203-高雄科技大學工業工程與管理學系演講/2020AI趨勢應用.pdf)、[動手玩AI(1)](https://github.com/andy6804tw/speach-archive/blob/main/2020/20201203-高雄科技大學工業工程與管理學系演講/動手玩AI(1).pdf)
