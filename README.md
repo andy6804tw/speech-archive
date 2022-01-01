@@ -11,3 +11,4 @@
 - 2021/12/13 長榮大學資訊暨設計學院@台南 [大國競逐下的AI新方向](https://github.com/andy6804tw/speach-archive/blob/main/2021/20211213-長榮演講/長榮演講.pdf)
 - 2021/12/14 [線上工作坊](https://www.cupoy.com/event-content/0000017D4AD11FBB000000036375706F795F72656C6561736553747564794576656E74)@Cupoy AI 學習社群 [自動調參神器-Optuna](https://github.com/andy6804tw/speach-archive/blob/main/2021/20211214-自動調參神器-Optuna/自動調參神器-Optuna.pdf)
 - 2021/12/21 [線上工作坊](https://www.cupoy.com/event-content/0000017D4AD11FBB000000036375706F795F72656C6561736553747564794576656E74)@Cupoy AI 學習社群 [你所不知道的關於AI二三事](https://github.com/andy6804tw/speach-archive/blob/main/2021/20211221-你所不知道的關於AI二三事/你所不知道的關於AI二三事.pdf)
+- 2021/12/23 [台灣人工智慧小聚](https://medium.com/@andy6804tw/淺談有意識的-ai-注意力機制介紹-59ec5b825b3e)@線上 [淺談有意識的AI-注意力機制介紹]()
