@@ -4,10 +4,10 @@
 - 2020/03/20 台灣人工智慧小聚@台南 [免費雲端Jupyter Notebook](https://github.com/andy6804tw/speach-archive/blob/main/2020/20200320-免費雲端Jupyter Notebook/20200320-免費雲端Jupyter Notebook.pdf)
 - 2020/12/03 高雄科技大學工業工程與管理學系演講@高雄 [2020AI趨勢應用](https://github.com/andy6804tw/speach-archive/blob/main/2020/20201203-高雄科技大學工業工程與管理學系演講/2020AI趨勢應用.pdf)、[動手玩AI(1)](https://github.com/andy6804tw/speach-archive/blob/main/2020/20201203-高雄科技大學工業工程與管理學系演講/動手玩AI(1).pdf)
 - 2020/12/10 高雄科技大學工業工程與管理學系演講@高雄 [認識AI](https://github.com/andy6804tw/speach-archive/blob/main/2020/20201210-高雄科技大學工業工程與管理學系演講/認識AI.pdf)、[動手玩AI(2)](https://github.com/andy6804tw/speach-archive/blob/main/2020/20201210-高雄科技大學工業工程與管理學系演講/動手玩AI(2).pdf)
-- 2021/02/18 台灣人工智慧小聚@台南 The Year in AI-Looking Back at 2020, and Forward to 2021
+- 2021/02/18 台灣人工智慧小聚@台南 [The Year in AI-Looking Back at 2020, and Forward to 2021](https://github.com/andy6804tw/speach-archive/blob/main/2021/20210218-The Year in AI-Looking Back at 2020, and Forward to 2021/The Year in AI-Looking Back at 2020, and Forward to 2021.pdf)
 - 2021/10/25 長榮大學資工系@台南 大學四年指南
-- 2021/11/02 長榮大學資工系@台南 AI專題分享
-- 2021/12/07 [線上工作坊](https://www.cupoy.com/event-content/0000017D4AD11FBB000000036375706F795F72656C6561736553747564794576656E74)@Cupoy AI 學習社群 機器學習金手指-Auto-sklearn
-- 2021/12/13 長榮大學資訊暨設計學院@台南 大國競逐下的AI新方向
-- 2021/12/14 [線上工作坊](https://www.cupoy.com/event-content/0000017D4AD11FBB000000036375706F795F72656C6561736553747564794576656E74)@Cupoy AI 學習社群 自動調參神器-Optuna
-- 2021/12/21 [線上工作坊](https://www.cupoy.com/event-content/0000017D4AD11FBB000000036375706F795F72656C6561736553747564794576656E74)@Cupoy AI 學習社群 你所不知道的關於AI二三事
+- 2021/11/02 長榮大學資工系@台南 [AI專題分享](https://github.com/andy6804tw/speach-archive/blob/main/2021/20211102-AI專題分享/20211102-AI專題分享.pdf)
+- 2021/12/07 [線上工作坊](https://www.cupoy.com/event-content/0000017D4AD11FBB000000036375706F795F72656C6561736553747564794576656E74)@Cupoy AI 學習社群 [機器學習金手指-Auto-sklearn](https://github.com/andy6804tw/speach-archive/blob/main/2021/20211207-機器學習金手指 - Auto-sklearn/機器學習金手指 - Auto-sklearn.pdf)
+- 2021/12/13 長榮大學資訊暨設計學院@台南 [大國競逐下的AI新方向](https://github.com/andy6804tw/speach-archive/blob/main/2021/20211213-長榮演講/20211213-長榮演講.pdf)
+- 2021/12/14 [線上工作坊](https://www.cupoy.com/event-content/0000017D4AD11FBB000000036375706F795F72656C6561736553747564794576656E74)@Cupoy AI 學習社群 [自動調參神器-Optuna](https://github.com/andy6804tw/speach-archive/blob/main/2021/20211214-自動調參神器-Optuna/自動調參神器-Optuna.pdf)
+- 2021/12/21 [線上工作坊](https://www.cupoy.com/event-content/0000017D4AD11FBB000000036375706F795F72656C6561736553747564794576656E74)@Cupoy AI 學習社群 [你所不知道的關於AI二三事](https://github.com/andy6804tw/speach-archive/blob/main/2021/20211221-你所不知道的關於AI二三事/你所不知道的關於AI二三事.pdf)
