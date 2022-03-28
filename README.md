@@ -12,3 +12,4 @@
 - 2021/12/14 [線上工作坊](https://www.cupoy.com/event-content/0000017D4AD11FBB000000036375706F795F72656C6561736553747564794576656E74)@Cupoy AI 學習社群 [自動調參神器-Optuna](https://github.com/andy6804tw/speach-archive/blob/main/2021/20211214-自動調參神器-Optuna/自動調參神器-Optuna.pdf)
 - 2021/12/21 [線上工作坊](https://www.cupoy.com/event-content/0000017D4AD11FBB000000036375706F795F72656C6561736553747564794576656E74)@Cupoy AI 學習社群 [你所不知道的關於AI二三事](https://github.com/andy6804tw/speach-archive/blob/main/2021/20211221-你所不知道的關於AI二三事/你所不知道的關於AI二三事.pdf)
 - 2021/12/23 [台灣人工智慧小聚](https://medium.com/@andy6804tw/淺談有意識的-ai-注意力機制介紹-59ec5b825b3e)@線上 [淺談有意識的AI-注意力機制介紹](https://github.com/andy6804tw/speach-archive/blob/main/2021/20211223-淺談有意識的AI-注意力機制介紹/淺談有意識的AI-注意力機制介紹.pdf)
+- 2022/03/09 [台灣人工智慧小聚](https://medium.com/@andy6804tw/電腦視覺中的注意力機制-545e08c1afc1)@線上 [電腦視覺中的注意力機制](https://github.com/andy6804tw/speach-archive/blob/main/2022/20220309-電腦視覺中的注意力機制/電腦視覺中的注意力機制.pdf)
