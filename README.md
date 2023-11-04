@@ -14,3 +14,5 @@
 - 2021/12/23 [台灣人工智慧小聚](https://medium.com/@andy6804tw/淺談有意識的-ai-注意力機制介紹-59ec5b825b3e)@線上 [淺談有意識的AI-注意力機制介紹](https://github.com/andy6804tw/speach-archive/blob/main/2021/20211223-淺談有意識的AI-注意力機制介紹/淺談有意識的AI-注意力機制介紹.pdf)
 - 2022/03/09 [台灣人工智慧小聚](https://medium.com/@andy6804tw/電腦視覺中的注意力機制-545e08c1afc1)@線上 [電腦視覺中的注意力機制](https://github.com/andy6804tw/speach-archive/blob/main/2022/20220309-電腦視覺中的注意力機制/電腦視覺中的注意力機制.pdf)
 - 2022/12/16 [線上工作坊](https://medium.com/@andy6804tw/電腦視覺中的注意力機制-545e08c1afc1)@Cupoy AI 學習社群 [初探注意力機制與 Transformers 模型網路](https://www.cupoy.com/collection/00000184E06105A9000000056375706F795F72656C656173654355?layoutType=introduction)
+- 2023/08/22 [生成式AI創新學院](https://www.technice.com.tw/classnotes/65713/)@線上 [提問的藝術：用AI程式輔助工具加速開發效率](https://www.technice.com.tw/review/65990/)
+- 2023/11/04 長榮大學資工系@台南 [善用「生成式AI」打造個人助手](https://github.com/andy6804tw/speach-archive/blob/main/2023/20231104-善用「生成式AI」打造個人助手/善用「生成式AI」打造個人助手.pdf)
