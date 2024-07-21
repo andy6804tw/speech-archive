@@ -16,3 +16,4 @@
 - 2022/12/16 [線上工作坊](https://medium.com/@andy6804tw/電腦視覺中的注意力機制-545e08c1afc1)@Cupoy AI 學習社群 [初探注意力機制與 Transformers 模型網路](https://www.cupoy.com/collection/00000184E06105A9000000056375706F795F72656C656173654355?layoutType=introduction)
 - 2023/08/22 [生成式AI創新學院](https://www.technice.com.tw/classnotes/65713/)@線上 [提問的藝術：用AI程式輔助工具加速開發效率](https://www.technice.com.tw/review/65990/)
 - 2023/11/04 長榮大學資工系@台南 [善用「生成式AI」打造個人助手](https://github.com/andy6804tw/speech-archive/blob/main/2023/20231104-善用「生成式AI」打造個人助手/善用「生成式AI」打造個人助手.pdf)
+- 2024/07/21 [線上工作坊](https://www.cupoy.com/event-content/000001902B9E4B41000000016375706F795F72656C6561736553747564794576656E74)@Cupoy AI 學習社群 [探索資料治理→以影像 AI 為例](https://github.com/andy6804tw/speech-archive/blob/main/2024/20240721-%E6%8E%A2%E7%B4%A2%E8%B3%87%E6%96%99%E6%B2%BB%E7%90%86/%E6%8E%A2%E7%B4%A2%E8%B3%87%E6%96%99%E6%B2%BB%E7%90%86(%E8%A9%A6%E9%96%B1).pdf)
