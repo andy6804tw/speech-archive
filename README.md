@@ -17,5 +17,5 @@
 - 2023/08/22 [生成式AI創新學院](https://www.technice.com.tw/classnotes/65713/)@線上 [提問的藝術：用AI程式輔助工具加速開發效率](https://www.technice.com.tw/review/65990/)
 - 2023/11/04 長榮大學資工系@台南 [善用「生成式AI」打造個人助手](https://github.com/andy6804tw/speech-archive/blob/main/2023/20231104-善用「生成式AI」打造個人助手/善用「生成式AI」打造個人助手.pdf)
 - 2024/07/21 [線上工作坊](https://www.cupoy.com/event-content/000001902B9E4B41000000016375706F795F72656C6561736553747564794576656E74)@Cupoy AI 學習社群 [探索資料治理→以影像 AI 為例](https://github.com/andy6804tw/speech-archive/blob/main/2024/20240721-%E6%8E%A2%E7%B4%A2%E8%B3%87%E6%96%99%E6%B2%BB%E7%90%86/%E6%8E%A2%E7%B4%A2%E8%B3%87%E6%96%99%E6%B2%BB%E7%90%86(%E8%A9%A6%E9%96%B1).pdf)
-- 2024/12/12 [線上研討會](https://itplus.ithome.com.tw/webinar-page/242)@iThome 鐵人講堂 [全民必懂的AI通識課](https://github.com/andy6804tw/speech-archive/blob/main/2024/20241212-全民必懂的AI通識課/iThome%20鐵人講堂_全民必懂的AI通識課.pdf)
+- 2024/12/11 [線上研討會](https://itplus.ithome.com.tw/webinar-page/242)@iThome 鐵人講堂 [全民必懂的AI通識課](https://github.com/andy6804tw/speech-archive/blob/main/2024/20241211-全民必懂的AI通識課/iThome%20鐵人講堂_全民必懂的AI通識課.pdf)
 - 2024/12/18 [線上研討會](https://itplus.ithome.com.tw/webinar-page/243)@iThome 鐵人講堂 [揭開黑箱模型：探索可解釋人工智慧](https://github.com/andy6804tw/speech-archive/blob/main/2024/20241218-探索可解釋人工智慧/iThome%20鐵人講堂_揭開黑箱模型-探索可解釋人工智慧.pdf)
