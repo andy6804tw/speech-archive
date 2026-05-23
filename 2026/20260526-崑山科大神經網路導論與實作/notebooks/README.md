@@ -1,0 +1,12 @@
+# Notebooks
+
+本資料夾收錄 2026/05/26 崑山科大神經網路導論與實作課程的六份 notebook。點選 Colab 徽章可直接從 GitHub 開啟對應程式碼。
+
+| 編號 | Notebook | Colab |
+| --- | --- | --- |
+| 01 | [手寫數字資料觀察與視覺化](./01_digits_data_visualization.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andy6804tw/speech-archive/blob/main/2026/20260526-%E5%B4%91%E5%B1%B1%E7%A7%91%E5%A4%A7%E7%A5%9E%E7%B6%93%E7%B6%B2%E8%B7%AF%E5%B0%8E%E8%AB%96%E8%88%87%E5%AF%A6%E4%BD%9C/notebooks/01_digits_data_visualization.ipynb) |
+| 02 | [SVM baseline：手寫數字辨識](./02_digits_svm_baseline.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andy6804tw/speech-archive/blob/main/2026/20260526-%E5%B4%91%E5%B1%B1%E7%A7%91%E5%A4%A7%E7%A5%9E%E7%B6%93%E7%B6%B2%E8%B7%AF%E5%B0%8E%E8%AB%96%E8%88%87%E5%AF%A6%E4%BD%9C/notebooks/02_digits_svm_baseline.ipynb) |
+| 03 | [SVHN SVM baseline：真實數字影像上的傳統 ML](./03_svhn_svm_baseline.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andy6804tw/speech-archive/blob/main/2026/20260526-%E5%B4%91%E5%B1%B1%E7%A7%91%E5%A4%A7%E7%A5%9E%E7%B6%93%E7%B6%B2%E8%B7%AF%E5%B0%8E%E8%AB%96%E8%88%87%E5%AF%A6%E4%BD%9C/notebooks/03_svhn_svm_baseline.ipynb) |
+| 04 | [SVHN DNN：Simple Dense DNN](./04_svhn_dnn_tensorflow.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andy6804tw/speech-archive/blob/main/2026/20260526-%E5%B4%91%E5%B1%B1%E7%A7%91%E5%A4%A7%E7%A5%9E%E7%B6%93%E7%B6%B2%E8%B7%AF%E5%B0%8E%E8%AB%96%E8%88%87%E5%AF%A6%E4%BD%9C/notebooks/04_svhn_dnn_tensorflow.ipynb) |
+| 05 | [SVHN DNN 優化：LeakyReLU + Learning Rate Schedule](./05_svhn_dnn_optimization.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andy6804tw/speech-archive/blob/main/2026/20260526-%E5%B4%91%E5%B1%B1%E7%A7%91%E5%A4%A7%E7%A5%9E%E7%B6%93%E7%B6%B2%E8%B7%AF%E5%B0%8E%E8%AB%96%E8%88%87%E5%AF%A6%E4%BD%9C/notebooks/05_svhn_dnn_optimization.ipynb) |
+| 06 | [SVHN CNN：影像空間結構登場](./06_svhn_cnn_tensorflow.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andy6804tw/speech-archive/blob/main/2026/20260526-%E5%B4%91%E5%B1%B1%E7%A7%91%E5%A4%A7%E7%A5%9E%E7%B6%93%E7%B6%B2%E8%B7%AF%E5%B0%8E%E8%AB%96%E8%88%87%E5%AF%A6%E4%BD%9C/notebooks/06_svhn_cnn_tensorflow.ipynb) |
