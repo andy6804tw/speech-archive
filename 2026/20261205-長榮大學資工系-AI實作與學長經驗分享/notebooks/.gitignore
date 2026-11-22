@@ -1,0 +1,7 @@
+# Notebook and Python runtime files
+.ipynb_checkpoints/
+__pycache__/
+
+# Downloaded font and solar runtime/model files
+外送時間預測/字型/*.otf
+太陽能板瑕疵檢測/solar_classroom/

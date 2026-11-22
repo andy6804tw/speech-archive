@@ -20,3 +20,4 @@
 - 2024/12/11 [線上研討會](https://itplus.ithome.com.tw/webinar-page/242)@iThome 鐵人講堂 [全民必懂的AI通識課](https://github.com/andy6804tw/speech-archive/blob/main/2024/20241211-全民必懂的AI通識課/iThome%20鐵人講堂_全民必懂的AI通識課.pdf)
 - 2024/12/18 [線上研討會](https://itplus.ithome.com.tw/webinar-page/243)@iThome 鐵人講堂 [揭開黑箱模型：探索可解釋人工智慧](https://github.com/andy6804tw/speech-archive/blob/main/2024/20241218-探索可解釋人工智慧/iThome%20鐵人講堂_揭開黑箱模型-探索可解釋人工智慧.pdf)
 - 2026/05/26 崑山科技大學資訊工程學系@台南 [神經網路概論與實作](./2026/20260526-崑山科大神經網路導論與實作/20260526-崑山科大-神經網路概論與實作.pptx)
+- 2026/12/05 長榮大學資訊工程學系@台南 [AI 實作與學長經驗分享](./2026/20261205-長榮大學資工系-AI實作與學長經驗分享/README.md)・[Colab 實作教材](./2026/20261205-長榮大學資工系-AI實作與學長經驗分享/notebooks/README.md)
